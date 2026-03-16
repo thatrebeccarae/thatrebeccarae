@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hey, I'm Rebecca.
 
-<!--
-**thatrebeccarae/thatrebeccarae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  I'm a marketing executive who builds things. Not just the decks, but the infrastructure underneath. AI agents, analytics dashboards,
+  automation pipelines, and apps for personal and professional use. The kind of work that used to require a dev team and a six-month roadmap.
 
-Here are some ideas to get you started:
+  I don't have a CS degree. I have a BFA, a decade of scaling e-commerce businesses, and a terminal inability to leave well enough alone.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## What I'm building
+
+  **[aouda](https://github.com/thatrebeccarae/aouda)** — An autonomous AI agent with taste, memory, goal persistence, and a 4-layer security
+  model. ~16,000 lines of TypeScript. She manages her own schedule, runs her own social media, and asks before she does anything
+  irreversible. Built as a security-first alternative to framework agents shipping CVEs every other week.
+
+  **[ouras](https://github.com/thatrebeccarae/ouras)** — A time tracking app I built because I didn't want to pay for one anymore with
+  feature bloat I rarely used. Next.js, Prisma, PostgreSQL.
+
+  **[claw.clip](https://github.com/thatrebeccarae/clawclip)** — An AI agent orchestration platform where agents self-organize into
+  cross-functional teams, pick up tasks from a kanban board, and ship code autonomously. The agents built most of it themselves.
+
+  **[get-content-done](https://github.com/thatrebeccarae/get-content-done)** — A content production engine for Claude Code. Sprint planning,
+  route-dispatched drafting, editorial gates, and voice drift tracking. Built to run my own content pipeline.
+
+  ## The day job
+
+  Fractional CMO and CDO. I've spent the last 10+ years building marketing teams and digital infrastructure for e-commerce companies — DTC,
+  B2B marketplaces, luxury retail. Built a retail media program from scratch, scaled a team to 40, and led a company through a PE exit.
+
+  I write about marketing, technology, and the structural shifts happening underneath both at **[dgtl dept](https://dgtldept.com)** on
+  Substack.
+
+  ## Where to find me
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rebecca%20Rae%20Barton-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedi
+  n.com/in/rebeccaraebarton)
+  [![Substack](https://img.shields.io/badge/Substack-dgtl%20dept-FF6719?style=flat&logo=substack&logoColor=white)](https://dgtldept.com)
+  [![Website](https://img.shields.io/badge/Web-rebeccaraebarton.com-000000?style=flat&logo=safari&logoColor=white)](https://rebeccaraebarton.
+  com)
