@@ -30,8 +30,6 @@
 
   ## Where to find me
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rebecca%20Rae%20Barton-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedi
-  n.com/in/rebeccaraebarton)
-  [![Substack](https://img.shields.io/badge/Substack-dgtl%20dept-FF6719?style=flat&logo=substack&logoColor=white)](https://dgtldept.com)
-  [![Website](https://img.shields.io/badge/Web-rebeccaraebarton.com-000000?style=flat&logo=safari&logoColor=white)](https://rebeccaraebarton.
-  com)
+  ## Where to find me
+
+  [LinkedIn](https://linkedin.com/in/rebeccaraebarton) · [Substack](https://dgtldept.com) · [Website](https://rebeccaraebarton.com)
