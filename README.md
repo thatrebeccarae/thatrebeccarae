@@ -30,6 +30,4 @@
 
   ## Where to find me
 
-  ## Where to find me
-
   [LinkedIn](https://linkedin.com/in/rebeccaraebarton) · [Substack](https://dgtldept.com) · [Website](https://rebeccaraebarton.com)
