@@ -5,18 +5,6 @@
 
   I don't have a CS degree. I have a BFA, a decade of scaling e-commerce businesses, and a terminal inability to leave well enough alone.
 
-  ## What I'm building
-
-  **[aouda](https://github.com/thatrebeccarae/aouda)** — An autonomous AI agent with taste, memory, goal persistence, and a 4-layer security
-  model. ~16,000 lines of TypeScript. She manages her own schedule, runs her own social media, and asks before she does anything
-  irreversible. Built as a security-first alternative to framework agents shipping CVEs every other week.
-
-  **[ouras](https://github.com/thatrebeccarae/ouras)** — A time tracking app I built because I didn't want to pay for one anymore with
-  feature bloat I rarely used. Next.js, Prisma, PostgreSQL.
-
-  **[claw.clip](https://dgtldept.com/p/agent-orchestration-is-the-hard-part-what-breaks-and-how-to-fix-it)** — An AI agent orchestration platform where agents self-organize into
-  cross-functional teams, pick up tasks from a kanban board, and ship code autonomously. The agents built most of it themselves.
-
   ## The day job
 
   Fractional CMO and CDO. I've spent the last 10+ years building marketing teams and digital infrastructure for e-commerce companies — DTC,
