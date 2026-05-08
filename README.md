@@ -17,9 +17,6 @@
   **[claw.clip](https://dgtldept.com/p/agent-orchestration-is-the-hard-part-what-breaks-and-how-to-fix-it)** — An AI agent orchestration platform where agents self-organize into
   cross-functional teams, pick up tasks from a kanban board, and ship code autonomously. The agents built most of it themselves.
 
-  **[get-content-done](https://github.com/thatrebeccarae/get-content-done)** — A content production engine for Claude Code. Sprint planning,
-  route-dispatched drafting, editorial gates, and voice drift tracking. Built to run my own content pipeline.
-
   ## The day job
 
   Fractional CMO and CDO. I've spent the last 10+ years building marketing teams and digital infrastructure for e-commerce companies — DTC,
